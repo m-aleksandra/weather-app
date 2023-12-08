@@ -11,7 +11,7 @@ displayWeather.js - displays data on index.html
 Run this code:
 
 1. clone this repository:
-    git clone
+    git clone https://github.com/m-aleksandra/weather-app.git
 
 2. go to the project directory and start server. Install
     http-server (if you haven't already)
